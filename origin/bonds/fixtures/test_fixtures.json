@@ -1,0 +1,14 @@
+[
+  {
+    "model": "bonds.Bond",
+    "pk": 1,
+    "fields": {
+      "isin": "12345",
+      "size": "100000000",
+      "currency": "EUR",
+      "maturity": "2028-02-28",
+      "lei": "5493001KJTIIGC8Y1R12",
+      "legal_name": "Bloomberg Finance L.P."
+    }
+  }
+]
