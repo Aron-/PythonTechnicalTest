@@ -67,14 +67,13 @@ We would also like to be able to add a filter such as:
 ### Bugs fixed / Minor amendments:
 - requirement.txt amended to requirements.txt in readme.
 - Django bonds app was not registered in settings.py.
-- Added basic CORS functionality in settings.py.
 
 ### Specific steps taken:
 - Set up Pycharm project on new computer, check for hello world.
-- Created model REST requests required after initial research on fields.
+- Created model after initial research on fields and serializer.
 - DB migrations.
 - Created subsequent views and tests.
-- Added Token authentication.
+- Added Token authentication and tests.
 
 # Usage
 - Set up virtual environment running Python 3: `pip install -r requirements.txt`.
